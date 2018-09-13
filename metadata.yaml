@@ -1,0 +1,31 @@
+_repo: La-vita-Italiana-nel-Risorgimento-1831-1846-parte-1-Seconda-serie-Storia_51399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51399'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Intellectual life -- 19th century'
+- !lcsh 'Italy -- Civilization -- 19th century'
+- !lcc 'DG'
+- !lcsh 'Italian literature -- 19th century'
+- !lcsh 'Italy -- History -- 1815-1870'
+- GITenberg
+tableOfContents: La politica degli stati italiani dal 1831 al 1846 / Romualdo Bonfadini
+  -- La vecchia Italia / Guglielmo Ferrero -- Il brigantaggio meridionale durante
+  il regime borbonico / Francesco S. Nitti -- Il vescovo d'Imola / Ernesto Masi.
+title: "La vita Italiana nel Risorgimento (1831-1846), parte 1\r\nSeconda serie -\
+  \ Storia"
+url: http://www.gutenberg.org/ebooks/51399
